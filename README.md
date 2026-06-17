@@ -43,7 +43,7 @@ Linear (128) -> BatchNorm1D -> Dropout (p=0.5) -> Linear
 
 ![Train Accuracy](images/train_accuracy.png)
 
-![Validation Accuracy](images/validation_accuracy.png)
+![Validation Accuracy](images/val_accuracy.png)
 
 ახალ მოდელებს (sweep-ით გაშვებულს) ნაკლები accuracy აქვთ, ვიდრე წინას, მაგრამ ეს არის რეგულარიზაციის გამო, რეალურად overfitting-ის პრობლემა 
 მოვაგვარეთ ამის სანაცვლოდ.
